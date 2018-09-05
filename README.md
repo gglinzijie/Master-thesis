@@ -1,4 +1,2 @@
-# hello-world
-just another repository
+A repo for my master thesis
 
-hi i am lin i want to be a resercher
