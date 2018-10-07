@@ -1,6 +1,6 @@
 Repository for master thesis  
-title:  
-Genomic prediction of host resistance to Heterobothrium okamotoi in Takifugu rubripes 
+Title:  
+Genomic prediction of host resistance to Heterobothrium okamotoi in Takifugu rubripes       
 Author:   
 Lin zijie 
   
