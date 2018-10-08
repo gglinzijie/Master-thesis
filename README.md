@@ -7,3 +7,6 @@ Lin zijie
 Fisheries Laboratory      
 Graduate School of Agriculture and Life Science    
 University of Tokyo   
+
+repo for modified simulator 
+https://github.com/gglinzijie/xbreed
