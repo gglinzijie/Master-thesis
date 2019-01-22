@@ -1,6 +1,6 @@
 Repository for master thesis  
 Title:  
-Genomic prediction of host resistance to Heterobothrium okamotoi in Takifugu rubripes       
+Studies on genomic prediction for heterobothriosis of cultured Japanese pufferfish Takifugu rubripes       
 Author:   
 Lin zijie 
   
